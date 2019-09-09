@@ -250,7 +250,10 @@ h3			{ font-size:16px; font-weight:bold; }
 
 .fileClass { font-weight:normal; }
 
-.topPageButton { backgound-color:#999;
+.fileOpen { background-color:#ff9966; }
+.loadRHSButton { background-color:#ff9966; }
+
+.topPageButton { background-color:#999;
                     border:none;
                     cursor:pointer; }
 
@@ -258,14 +261,14 @@ h3			{ font-size:16px; font-weight:bold; }
                 text-decoration:none;
                 font-weight:bold; }
 
-.dropButton { backgound-color:#999;
+.dropButton { background-color:#999;
                 border:none;
                 cursor:pointer;}
 
 .topPageNav { display:inline;
                 list-style-type:none; }
 
-.active, .dropButton:hover { backgound-color:#333;
+.active, .dropButton:hover { background-color:#888;
                                 transform: scale(1.1); }
 
 
