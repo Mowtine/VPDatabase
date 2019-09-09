@@ -253,7 +253,7 @@ h3			{ font-size:16px; font-weight:bold; }
 .fileOpen { background-color:#ff9966; }
 .loadRHSButton { background-color:#ff9966; }
 
-.topPageButton { background-color:#999;
+.topPageButton { background-color:#aaa;
                     border:none;
                     cursor:pointer; }
 
@@ -261,7 +261,7 @@ h3			{ font-size:16px; font-weight:bold; }
                 text-decoration:none;
                 font-weight:bold; }
 
-.dropButton { background-color:#999;
+.dropButton { background-color:#aaa;
                 border:none;
                 cursor:pointer;}
 
