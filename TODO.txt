@@ -1,0 +1,8 @@
+Highlight files which can be opened
+
+Scale images propperly. 
+
+On restart, automatically close a current running rundatabase
+
+Move the command window to the tray
+

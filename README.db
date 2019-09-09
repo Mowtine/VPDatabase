@@ -1,0 +1,30 @@
+### INSTRUCTIONS: ###
+
+### To run it/reset it: ###
+1. Navigate to the folder "PythonFiles". (Note it may be hidden)
+
+2. Doubleclick Run Database.bat - it should now open up automatically if it doesn't:
+
+3. In your browser go to: http://localhost:8000
+
+
+### To set up the files ###
+1. Copy all the files in this folder, and add them to a folder called
+"PythonFiles".
+
+2. Add that folder into the root folder you want to host.
+(So the SiteGenerator.py will be hosting the parent file)
+
+
+### To access site: ###
+1. In browser search: localhost:8000
+
+
+
+### Using jQuery ###
+Since it is saved in the PythonFiles folder, use it by using:
+<script src = "PythonFiles/jquery-3.3.1.js"></script>
+
+### Main layout ###
+
+The files should be all
